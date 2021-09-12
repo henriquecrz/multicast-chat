@@ -1,0 +1,13 @@
+C:\Henrique\dev\multicast-chat\client\bin\Debug\netcoreapp3.1\client.exe
+C:\Henrique\dev\multicast-chat\client\bin\Debug\netcoreapp3.1\client.deps.json
+C:\Henrique\dev\multicast-chat\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.json
+C:\Henrique\dev\multicast-chat\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.dev.json
+C:\Henrique\dev\multicast-chat\client\bin\Debug\netcoreapp3.1\client.dll
+C:\Henrique\dev\multicast-chat\client\bin\Debug\netcoreapp3.1\client.pdb
+C:\Henrique\dev\multicast-chat\client\obj\Debug\netcoreapp3.1\client.csprojAssemblyReference.cache
+C:\Henrique\dev\multicast-chat\client\obj\Debug\netcoreapp3.1\client.AssemblyInfoInputs.cache
+C:\Henrique\dev\multicast-chat\client\obj\Debug\netcoreapp3.1\client.AssemblyInfo.cs
+C:\Henrique\dev\multicast-chat\client\obj\Debug\netcoreapp3.1\client.csproj.CoreCompileInputs.cache
+C:\Henrique\dev\multicast-chat\client\obj\Debug\netcoreapp3.1\client.dll
+C:\Henrique\dev\multicast-chat\client\obj\Debug\netcoreapp3.1\client.pdb
+C:\Henrique\dev\multicast-chat\client\obj\Debug\netcoreapp3.1\client.genruntimeconfig.cache
