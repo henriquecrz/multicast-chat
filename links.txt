@@ -1,0 +1,15 @@
+http://www.macoratti.net/11/08/c_chat1.htm
+http://www.macoratti.net/11/08/c_chat2.htm
+https://github.com/pedro-ca/Multicast-chat
+https://github.dev/pedro-ca/Multicast-chat/blob/main/MulticastChat/MulticastChat/FormMain.cs
+https://www.codeproject.com/Articles/12938/LAN-Chat-Using-Multicating
+http://www.java2s.com/Code/CSharp/Network/MulticastChat.htm
+https://chronoxor.github.io/NetCoreServer/
+https://github.com/chronoxor/NetCoreServer/blob/master/source/NetCoreServer/UdpServer.cs
+https://chronoxor.github.io/NetCoreServer/#example-udp-multicast-server
+https://chronoxor.github.io/NetCoreServer/#example-udp-multicast-client
+
+https://stackoverflow.com/questions/13806435/how-can-i-get-all-the-active-tcp-connections-using-net-framework-no-unmanaged
+
+https://www.devmedia.com.br/como-criar-um-chat-multithread-com-socket-em-java/33639
+
